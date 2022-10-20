@@ -1,6 +1,6 @@
 import React from "react";
 import { SafeAreaView, StatusBar } from "react-native";
-import { CommentScreen } from "./src/CommentScreen";
+import { CommentScreen } from "./src/screens/CommentScreen";
 
 export default function App() {
   return (
